@@ -1,3 +1,16 @@
+.byline{
+    color: gray;
+}
+
+header{
+    margin-bottom: 25px;
+}
+
+h1{
+    margin-bottom: 2px;
+}
+
+
 span.highlight{
     background-color: yellow;
 }
@@ -17,7 +30,7 @@ tr:nth-child(odd){
 }
 
 footer > h3{
-    color: grey;
+    color: gray;
 }
 
 .video-container{
