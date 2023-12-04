@@ -1,3 +1,17 @@
 span.highlight{
     background-color: yellow;
 }
+
+table{
+    border-collapse: collapse;
+    padding: 0;
+}
+
+#tableheader{
+    background-color: #20a9e5;
+    color: white;
+}
+
+tr:nth-child(odd){
+    background-color: #b1e5f2;
+}
