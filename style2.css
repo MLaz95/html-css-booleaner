@@ -5,7 +5,7 @@
 .banner{
     height: 150px;
     background-color: #4ea0ff;
-    background-image: url(img/pattern.png);
+    background-image: url("img/pattern.png");
     position: relative;
 }
 
@@ -13,12 +13,12 @@
     height: 50px;
     position: absolute;
     bottom: 10px;
-    left: 5px;
+    left: 15%;
 }
 
 main{
     margin: 10px auto;
-    width: 55%;
+    width: 70%;
 }
 
 header{
